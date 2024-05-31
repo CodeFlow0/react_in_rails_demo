@@ -5,7 +5,7 @@ import './home.scss';
 
 const Home = () => (
   <Layout>
-    <h1>Home page</h1>
+    <h1>Home page webpack dev server is definitely working</h1>
   </Layout>
 );
 
